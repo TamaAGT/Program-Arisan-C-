@@ -1,1 +1,2 @@
-# Program sederhana C++ untuk mengakomodasi kegiatan arisan.
+# Arisan C++
+Program implementasi metode struktur data untuk memfasilitasi kegiatan arisan.
